@@ -37,11 +37,11 @@ https://user-images.githubusercontent.com/84648098/137556887-6bd939df-01dd-4341-
   ```
   git clone git@github.com:imSpires/social-media-API.git
   ```
-  Both Node.js and MySQL must be installed on your computer.
+  Both Node.js and MongoDB must be installed on your computer.
 
   Install dependencies 
   ```
-  npm install express mongoose mysql2
+  npm install express mongoose
   ```
 
   to start running application simply input 
