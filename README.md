@@ -18,6 +18,9 @@
 
   ## Media
 
+https://user-images.githubusercontent.com/84648098/137556887-6bd939df-01dd-4341-870e-58c409df5164.mp4
+
+
   ## Objective
   To handle large amounts of unstructured data for a social media API using a NoSQL database.
 
